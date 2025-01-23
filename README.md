@@ -24,10 +24,7 @@ Este projeto demonstra o uso de **LWC**, **Fórmulas em Salesforce** e automaç�
    - Consumo mensal em kWh.
    - Custo estimado em R$ com base no consumo e tarifa.
 
-3. **Salvamento no Salesforce**:
-   - Permite salvar simulações para consulta futura.
-
-4. **Interface Amigável**:
+3. **Interface Amigável**:
    - Desenvolvido com Lightning Web Components para uma experiência de usuário moderna e responsiva.
 
 ---
