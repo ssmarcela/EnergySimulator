@@ -35,3 +35,11 @@ Este projeto demonstra o uso de **LWC**, **Fórmulas em Salesforce** e automaç�
 - **Fórmulas em Salesforce**: Cálculos automáticos de consumo e custo.
 - **Lightning App Builder**: Configuração e integração do componente.
 
+## 📋 Demonstração
+
+- **Tela do Simulador**
+
+![image](https://github.com/user-attachments/assets/ebfd5457-784b-493c-a9a8-b3a2db066f5b)
+
+![image](https://github.com/user-attachments/assets/894c94ac-87b5-48b0-8ddc-3acd53ed1321)
+
