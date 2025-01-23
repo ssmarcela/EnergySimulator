@@ -35,11 +35,27 @@ Este projeto demonstra o uso de **LWC**, **Fórmulas em Salesforce** e automaç�
 - **Fórmulas em Salesforce**: Cálculos automáticos de consumo e custo.
 - **Lightning App Builder**: Configuração e integração do componente.
 
+---
+
 ## 📋 Demonstração
 
 - **Tela do Simulador**
 
-![image](https://github.com/user-attachments/assets/ebfd5457-784b-493c-a9a8-b3a2db066f5b)
+![image](https://github.com/user-attachments/assets/b7cc4eb8-f1b8-4a2a-acd7-9960b918407a)
 
-![image](https://github.com/user-attachments/assets/894c94ac-87b5-48b0-8ddc-3acd53ed1321)
+Resultado
 
+![image](https://github.com/user-attachments/assets/ac91b669-9bd2-42d4-9482-241a9dbd1dcc)
+
+---
+
+## 🛠️🚀 Melhorias Futuras
+- Permitir simulações para múltiplos aparelhos ao mesmo tempo.
+- Adicionar gráficos para visualizar o impacto do consumo.
+- Oferecer tarifas regionais ou personalizadas.
+- Gerar relatórios com o histórico de simulações.
+
+---
+
+## 🤝 Contribuições
+Sinta-se à vontade para contribuir com melhorias ou reportar problemas. Faça um fork do projeto, implemente suas alterações e envie um Pull Request.
